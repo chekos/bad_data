@@ -2,6 +2,8 @@
 
 Notes while reading the Bad Data Handbook.
 
+Ongoing.
+
 ## Notes
 
 * [Chapter 1](notes/01-what_is_bad_data)
