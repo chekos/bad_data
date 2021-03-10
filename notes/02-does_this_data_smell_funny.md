@@ -115,7 +115,7 @@ A way to check that the non-numeric data (like the name of the school/clinic/pri
 
 >For real datasets (i.e., ones consisting of lots of data points), a histogram provides a reasonable approximation of the distribution function and can be assessed as such. For example, you typically expect a fairly smooth function. It may be flat, or Gaussian (looks like a bell curve), or even decay exponentially (long-tail), but a discontinuity in the graph should be viewed with suspicion: it may indicate some kind of problem with the data.
 
-!(figure 2.1)[../images/ch1_fig_1.png]
+![figure 2.1](../images/ch1_fig_1.png)
 
 ## Examples
 
