@@ -30,5 +30,6 @@ The way the book is organized:
 :bulb: Note from Sergio: this book is v white. 
 
 
-| Previous chapter | [Next chapter](../02-does_this_data_smell_funny) |
+| Previous chapter | [Next chapter](02-does_this_data_smell_funny) |
 |:------------------------------------------:|:---------------------------:|
+| | |
