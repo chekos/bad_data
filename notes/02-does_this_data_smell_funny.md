@@ -128,3 +128,7 @@ In these examples, he goes through some of his checks and eventually creates a c
 > Data seldom arrives neatly packaged with a quality guarantee. In fact, it often arrives with little or no documentation of where it came from, how it was gathered, or what to watch out for when using it. However, some relatively simple analysis techniques can provide a lot of insight into a dataset. This analysis will often provide interesting insights into an area of interest. At the minimum, these “sniff tests” provide areas to explore or watch out for.
 
 I have not have that be the case in my experience (_data arriving with little or no documentation of where it came from, how it was gathered, or what to watch out for when using it_) but the conclusion is the same. Exploratory data analysis is the very first step when diving into a new dataset. Coming up with a set of field and value validation checks to preliminary test your data is the best way to avoid surprises down the road.
+
+
+| [Previous chapter](../01-what_is_bad_data) | Next chapter |
+|:------------------------------------------:|:---------------------------:|

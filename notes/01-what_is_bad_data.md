@@ -28,3 +28,7 @@ The way the book is organized:
     - Ch. 19: How to assess your data's quality, and how to build a structure around a data quality effort.
 
 :bulb: Note from Sergio: this book is v white. 
+
+
+| Previous chapter | [Next chapter](../02-does_this_data_smell_funny) |
+|:------------------------------------------:|:---------------------------:|
