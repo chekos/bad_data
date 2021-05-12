@@ -130,6 +130,6 @@ In these examples, he goes through some of his checks and eventually creates a c
 I have not have that be the case in my experience (_data arriving with little or no documentation of where it came from, how it was gathered, or what to watch out for when using it_) but the conclusion is the same. Exploratory data analysis is the very first step when diving into a new dataset. Coming up with a set of field and value validation checks to preliminary test your data is the best way to avoid surprises down the road.
 
 
-| [Previous chapter](01-what_is_bad_data) | Next chapter |
+| [Previous chapter](01-what-is-bad-data) | Next chapter |
 |:------------------------------------------:|:---------------------------:|
 | | |
